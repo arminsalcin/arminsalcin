@@ -43,4 +43,4 @@
 
 
 [instagram]: https://instagram.com/salca16
-[linkedin]: https://linkedin.com/in/arminsalcin
+[linkedin]: https://linkedin.com/in/armin-salcin/
