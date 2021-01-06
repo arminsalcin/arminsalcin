@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="681c867d-0ac3-4281-8d33-5a249f8201ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/arminsalcin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -48,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609934468308</updated>
       <workItem from="1609934470661" duration="271000" />
-      <workItem from="1609934751170" duration="302000" />
+      <workItem from="1609934751170" duration="801000" />
     </task>
     <servers />
   </component>
