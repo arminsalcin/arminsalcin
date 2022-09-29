@@ -2,10 +2,8 @@
 
 ## I'm a Hardware and Frontend dev!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently working in Eligible ai 🤣
 - 👯 I’m looking to collaborate with other frontend devs
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play drums
 
 
 ### Connect with me:
