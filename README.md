@@ -2,7 +2,7 @@
 
 ## I'm a Hardware and Frontend dev!!
 
-- 🌱 I’m currently working in Eligible ai 🤣
+- 🌱 I’m currently working in Eligible ai
 - 👯 I’m looking to collaborate with other frontend devs
 
 
